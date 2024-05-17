@@ -1,29 +1,50 @@
-<div class="bg-orange-600 min-h-screen flex flex-col items-center justify-center p-4">
-    <div class="w-full max-w-sm">
-        <div class="mb-8 text-center">
-            <img src="https://placehold.co/100x100" alt="Logo" class="mx-auto mb-4">
-            <h2 class="text-3xl font-bold text-white">Login</h2>
+<div class="bg-white dark:bg-zinc-800 min-h-screen">
+    <div class="p-4 bg-blue-600 text-white flex justify-between items-center">
+        <div class="flex items-center">
+            <img src="https://placehold.co/32x32" alt="Back" class="mr-2">
+            <div>
+                <p class="font-semibold">Katrice Miel Bearns</p>
+                <p class="text-xs">Active 21m ago</p>
+            </div>
         </div>
-        <form class="space-y-6">
-            <div class="bg-zinc-800 rounded-lg p-4">
-                <label class="block mb-2 text-sm font-medium text-zinc-300">Username</label>
-                <input type="text" name="username" class="w-full p-2 rounded bg-zinc-700 text-white placeholder-zinc-400" placeholder="newnuman">
+        <div class="space-x-2">
+            <button aria-label="Call">
+                <img src="https://placehold.co/24x24" alt="Call">
+            </button>
+            <button aria-label="Settings">
+                <img src="https://placehold.co/24x24" alt="Settings">
+            </button>
+        </div>
+    </div>
+    <div class="p-4 space-y-2">
+        <div class="flex items-end space-x-2">
+            <img src="https://placehold.co/32x32" alt="User Avatar" class="rounded-full">
+            <div class="bg-zinc-200 dark:bg-zinc-700 p-2 rounded-lg max-w-xs">
+                <p>can't pay 150 on Friday because dad got mad, let's do it on Monday instead 👋👋</p>
             </div>
-            <div class="bg-zinc-800 rounded-lg p-4">
-                <label class="block mb-2 text-sm font-medium text-zinc-300">Password</label>
-                <input type="password" name="password" class="w-full p-2 rounded bg-zinc-700 text-white placeholder-zinc-400" placeholder="********">
+        </div>
+        <div class="flex flex-row-reverse items-end space-x-2 space-x-reverse">
+            <img src="https://placehold.co/32x32" alt="User Avatar" class="rounded-full">
+            <div class="bg-blue-500 text-white p-2 rounded-lg max-w-xs">
+                <p>from 500 allowance now only 200 😞</p>
             </div>
-            <div class="flex items-center justify-between">
-                <label class="flex items-center text-sm text-zinc-300">
-                    <input type="checkbox" class="form-checkbox h-4 w-4 text-orange-500 rounded">
-                    <span class="ml-2">Remember</span>
-                </label>
-                <a href="#" class="text-sm text-red-400 hover:text-red-300">Forgot password?</a>
+        </div>
+        <div class="flex items-end space-x-2">
+            <img src="https://placehold.co/32x32" alt="User Avatar" class="rounded-full">
+            <div class="bg-zinc-200 dark:bg-zinc-700 p-2 rounded-lg max-w-xs">
+                <p>te mag abot akong parcel ugma😞</p>
             </div>
-            <button type="submit" class="w-full py-3 mt-6 bg-orange-500 rounded-lg text-white font-bold hover:bg-orange-400">Login</button>
-            <p class="mt-8 text-center text-white">
-                No account yet? <a href="#" class="text-red-400 hover:text-red-300">Sign Up</a>
-            </p>
-        </form>
+        </div>
+    </div>
+    <div class="fixed bottom-0 left-0 w-full p-2 bg-white dark:bg-zinc-800 border-t">
+        <div class="flex items-center justify-between">
+            <button aria-label="Emoji">
+                <img src="https://placehold.co/24x24" alt="Emoji">
+            </button>
+            <input type="text" placeholder="Message" class="flex-1 mx-2 p-2 border rounded">
+            <button aria-label="Send">
+                <img src="https://placehold.co/24x24" alt="Send">
+            </button>
+        </div>
     </div>
 </div>
