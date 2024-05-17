@@ -1,10 +1,10 @@
-<div class="bg-white dark:bg-zinc-800 min-h-screen">
+<div class="bg-blue dark:bg-zinc-800 min-h-screen">
     <div class="p-4 bg-blue-600 text-white flex justify-between items-center">
         <div class="flex items-center">
             <img src="https://placehold.co/32x32" alt="Back" class="mr-2">
             <div>
-                <p class="font-semibold">Katrice Miel Bearns</p>
-                <p class="text-xs">Active 21m ago</p>
+                <p class="font-semibold">Katrice Miel Bearneza</p>
+                <p class="text-xs">Active 1M ago</p>
             </div>
         </div>
         <div class="space-x-2">
@@ -20,13 +20,13 @@
         <div class="flex items-end space-x-2">
             <img src="https://placehold.co/32x32" alt="User Avatar" class="rounded-full">
             <div class="bg-zinc-200 dark:bg-zinc-700 p-2 rounded-lg max-w-xs">
-                <p>can't pay 150 on Friday because dad got mad, let's do it on Monday instead 👋👋</p>
+                <p>can't pay 150 on Friday because dad got mad, let's do it on Monday instead fuck you anton 👋👋</p>
             </div>
         </div>
         <div class="flex flex-row-reverse items-end space-x-2 space-x-reverse">
             <img src="https://placehold.co/32x32" alt="User Avatar" class="rounded-full">
             <div class="bg-blue-500 text-white p-2 rounded-lg max-w-xs">
-                <p>from 500 allowance now only 200 😞</p>
+                <p>from 500 allowance now only 200 ok oa 😞</p>
             </div>
         </div>
         <div class="flex items-end space-x-2">
